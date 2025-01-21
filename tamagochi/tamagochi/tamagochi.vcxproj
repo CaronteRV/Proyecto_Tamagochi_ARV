@@ -127,10 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Critter.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Tamagochi.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Critter.h" />
     <ClInclude Include="MyHeader.h" />
     <ClInclude Include="Tamagochi.h" />
   </ItemGroup>

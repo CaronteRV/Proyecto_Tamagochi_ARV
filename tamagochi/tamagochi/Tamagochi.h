@@ -1,16 +1,19 @@
 #pragma once
+#include <iostream>
+#include <string>
+
+using namespace std;
+
 class Tamagochi
 {
 public:
-	Tamagochi(int vida, double money);
-	double getMoney();
-	void setMoney(double dineroRecibido);
-
+	Tamagochi(int nivell);
 	void hablar();
-	int m_Health;
-
+	double happiness();
+	double hunger();	
 private:
-	double money;
-	int vida;
+	double nivellFelicitat;
+	string nom = "26.1.14.9";
+
 };
 

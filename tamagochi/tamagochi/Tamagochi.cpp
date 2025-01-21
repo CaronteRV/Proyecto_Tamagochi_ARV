@@ -1,23 +1,27 @@
 #include "MyHeader.h"
 #include "Tamagochi.h"
 
-Tamagochi::Tamagochi(int vidaRecibida, double dineroRecibido)
-{
-	vida = vidaRecibida;
-	money = dineroRecibido;
-}
 
-double Tamagochi::getMoney()
+Tamagochi::Tamagochi(int nivell) 
 {
-	return money;
-}
-
-void Tamagochi::setMoney(double dineroRecibido)
-{
-	money = dineroRecibido;
+	nivellFelicitat = nivell;
 }
 
 void Tamagochi::hablar()
 {
-	std::cout << "tetas";
+	std::cout << "Hola em dic " << nom << "." << endl;
+
+	std::cout << "El meu nivell de felicitat es " << happiness() << "." << endl;
+
+	std::cout << "El meu nivell de gana es " << hunger() << "." << endl;
+}
+//Retorna el nivell de felicitat
+double Tamagochi::happiness()
+{
+	return nivellFelicitat / 10.0; //Escalem de 0 a 10
+}
+
+double Tamagochi::hunger()
+{
+	return 10.0 - (nivellFelicitat / 10.0); //Invers a la felicitat
 }
