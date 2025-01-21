@@ -1,3 +1,0 @@
-﻿  ZaniMommyCritter.cpp
-MSVCRTD.lib(exe_main.obj) : error LNK2019: símbolo externo main sin resolver al que se hace referencia en la función "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
-E:\AluCiclesGS1\Aniol Riera i Vila CFGS\Robert 3\ZaniCritterTamagochi\ZaniMommyCritter\x64\Debug\ZaniMommyCritter.exe : fatal error LNK1120: 1 externos sin resolver
