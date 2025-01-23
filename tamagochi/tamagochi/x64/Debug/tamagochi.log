@@ -1,2 +1,5 @@
-﻿  main.cpp
+﻿  Tamagochi.cpp
+E:\AluCiclesGS1\Aniol Riera i Vila CFGS\Robert 3\TAMAGOCHI_PROYECTO_ARV\tamagochi\tamagochi\Tamagochi.cpp(67,18): warning C4244: '-=': conversión de 'double' a 'int'; posible pérdida de datos
+  main.cpp
+  Generando código...
   tamagochi.vcxproj -> E:\AluCiclesGS1\Aniol Riera i Vila CFGS\Robert 3\TAMAGOCHI_PROYECTO_ARV\tamagochi\x64\Debug\tamagochi.exe

@@ -7,13 +7,25 @@ using namespace std;
 class Tamagochi
 {
 public:
-	Tamagochi(int nivell);
+	Tamagochi(int nivellInicial, int moneyInicial);
 	void hablar();
-	double happiness();
-	double hunger();	
+	void happiness();
+	void hunger();	
+	void jugar();
+	void donarMenjar();
+	void simularPasTemps();
+	void dormir();
+	void beure();
+	void airelliure();
+	void mostrarValors();
+
 private:
 	double nivellFelicitat;
+	double nivellGana;
+	int money;
 	string nom = "26.1.14.9";
-
+	
+	string calcularEstatAnim();
+	double calcularMitjana(); 
 };
 
