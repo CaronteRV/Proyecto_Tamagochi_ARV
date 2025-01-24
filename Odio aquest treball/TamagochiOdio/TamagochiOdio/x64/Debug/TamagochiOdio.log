@@ -1,0 +1,35 @@
+﻿  Main.cpp
+  TamagochiOdio.cpp
+E:\AluCiclesGS1\Aniol Riera i Vila CFGS\Robert 3\Odio aquest treball\TamagochiOdio\TamagochiOdio\TamagochiOdio.h(25,67): error C2969: error de sintaxis: ';': se esperaba que la definición de función miembro finalizase con '}'
+  (compilando archivo de origen "Main.cpp")
+  
+E:\AluCiclesGS1\Aniol Riera i Vila CFGS\Robert 3\Odio aquest treball\TamagochiOdio\TamagochiOdio\Main.cpp(6,1): error C2222: tipo inesperado 'int': se esperaba un miembro o clase base
+E:\AluCiclesGS1\Aniol Riera i Vila CFGS\Robert 3\Odio aquest treball\TamagochiOdio\TamagochiOdio\Main.cpp(6,5): error C2061: error de sintaxis: identificador 'main'
+E:\AluCiclesGS1\Aniol Riera i Vila CFGS\Robert 3\Odio aquest treball\TamagochiOdio\TamagochiOdio\TamagochiOdio.h(25,67): error C2630: ';' se ha encontrado en lo que debería ser una lista separada por comas
+  (compilando archivo de origen "Main.cpp")
+  
+E:\AluCiclesGS1\Aniol Riera i Vila CFGS\Robert 3\Odio aquest treball\TamagochiOdio\TamagochiOdio\Main.cpp(82,5): error C2534: 'Tamagochi': el constructor no puede devolver un valor
+      E:\AluCiclesGS1\Aniol Riera i Vila CFGS\Robert 3\Odio aquest treball\TamagochiOdio\TamagochiOdio\TamagochiOdio.h(5,7):
+      vea la declaración de 'Tamagochi'
+  
+E:\AluCiclesGS1\Aniol Riera i Vila CFGS\Robert 3\Odio aquest treball\TamagochiOdio\TamagochiOdio\Main.cpp(82,5): error C2562: 'Tamagochi::Tamagochi': función void' que devuelve un valor
+      E:\AluCiclesGS1\Aniol Riera i Vila CFGS\Robert 3\Odio aquest treball\TamagochiOdio\TamagochiOdio\TamagochiOdio.h(24,5):
+      vea la declaración de 'Tamagochi::Tamagochi'
+  
+E:\AluCiclesGS1\Aniol Riera i Vila CFGS\Robert 3\Odio aquest treball\TamagochiOdio\TamagochiOdio\TamagochiOdio.h(25,67): error C2969: error de sintaxis: ';': se esperaba que la definición de función miembro finalizase con '}'
+  (compilando archivo de origen "TamagochiOdio.cpp")
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\cmath(37,1): error C2059: error de sintaxis: 'attribute specifier'
+  (compilando archivo de origen "TamagochiOdio.cpp")
+  
+E:\AluCiclesGS1\Aniol Riera i Vila CFGS\Robert 3\Odio aquest treball\TamagochiOdio\TamagochiOdio\TamagochiOdio.h(25,67): error C2630: ';' se ha encontrado en lo que debería ser una lista separada por comas
+  (compilando archivo de origen "TamagochiOdio.cpp")
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\cmath(38,24): error C2065: '_Xx': identificador no declarado
+  (compilando archivo de origen "TamagochiOdio.cpp")
+  
+E:\AluCiclesGS1\Aniol Riera i Vila CFGS\Robert 3\Odio aquest treball\TamagochiOdio\TamagochiOdio\TamagochiOdio.cpp(78,12): error C2084: la función 'Tamagochi::Tamagochi(const std::string &,int,int,int)' ya tiene un cuerpo
+      E:\AluCiclesGS1\Aniol Riera i Vila CFGS\Robert 3\Odio aquest treball\TamagochiOdio\TamagochiOdio\TamagochiOdio.h(24,5):
+      vea la definición anterior de “Tamagochi::Tamagochi”
+  
+  Generando código...
